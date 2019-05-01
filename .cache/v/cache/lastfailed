@@ -1,0 +1,6 @@
+{
+  "tests/ParametrizedSimpleCalculatorTest.py::test_calc_add[4-2-5]": true,
+  "tests/ParametrizedSimpleCalculatorTest.py::test_calc_add[5-3-7]": true,
+  "tests/ParametrizedSimpleCalculatorTest.py::test_calc_add[9999-8999998889999989-89999988900099880]": true,
+  "tests/ParametrizedSimpleCalculatorTestAdd.py::test_calc_add[4-2-5]": true
+}
